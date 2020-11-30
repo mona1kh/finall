@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.example.tawaqapp">
+
+    <dist:module dist:instant="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TawaqApp">
+        <activity android:name=".geraphic2"></activity>
+        <activity android:name=".workEnviroument" />
+        <activity android:name=".securitylntro" />
+        <activity android:name=".onlineWork" />
+        <activity android:name=".geraphic" />
+        <activity android:name=".marketing" />
+        <activity android:name=".ITWork" />
+        <activity android:name=".IOT" />
+        <activity android:name=".goToPageCode" />
+        <activity android:name=".Ah2" />
+        <activity android:name=".aramco2" />
+        <activity android:name=".soliman" />
+        <activity android:name=".sehh" />
+        <activity android:name=".moassh" />
+        <activity android:name=".johnson" />
+        <activity android:name=".gedaa" />
+        <activity android:name=".elm" />
+        <activity android:name=".ttweaSa" />
+        <activity android:name=".tnmih" />
+        <activity android:name=".tkatf1" />
+        <activity android:name=".rodah" />
+        <activity android:name=".rajhi" />
+        <activity android:name=".motwiron" />
+        <activity android:name=".Ah" />
+        <activity android:name=".hiwar" />
+        <activity android:name=".eraq" />
+        <activity android:name=".aramco" />
+        <activity android:name=".users" />
+        <activity android:name=".volunteerWork" />
+        <activity android:name=".userAccount" />
+        <activity android:name=".aboutIn" />
+        <activity android:name=".home" />
+        <activity android:name=".theMenu" />
+        <activity android:name=".courses" />
+        <activity android:name=".trainingPlaces" />
+        <activity android:name=".trainingTracks" />
+        <activity android:name=".register" />
+        <activity android:name=".aboutOut" />
+        <activity android:name=".login" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

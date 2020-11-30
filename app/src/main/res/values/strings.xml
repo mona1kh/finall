@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">tawaqApp</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+    <string name="link1">
+        <a href="https://www.alrajhibank.com.sa/careers/graduate-program">الموقع الإالكتروني</a>
+    </string>
+
+    <string name="link2">
+        <a href="https://www.aramco.com/ar/careers/saudi-applicants/non-employee-programs/university-and-vocational-college-internship-programs/university-internship-program">الموقع الإالكتروني</a>
+    </string>
+
+    <string name="link3">
+        <a href="https://moh-training.com/">الموقع الإالكتروني</a>
+    </string>
+
+    <string name="link4">
+        <a href="https://www.elm.sa/ar/Pages/default.aspx">الموقع الإالكتروني</a>
+    </string>
+
+    <string name="link5">
+        <a href="https://surveys.sfda.gov.sa/zs/SXRzsh">الموقع الإالكتروني</a>
+    </string>
+
+    <string name="link6">
+        <a href="https://tas-johnsoncontrols.taleo.net/careersection/10000/jobsearch.ftl">الموقع الإالكتروني</a>
+    </string>
+
+    <string name="link7">
+        <a href="https://sr.edu.sa/site/">الموقع الإالكتروني</a>
+    </string>
+
+    <string name="link8">
+        <a href="https://www.tvtc.gov.sa/"> الموقع الإالكتروني</a>
+    </string>
+
+    <string name="hilal">
+        <a href="https://srcavolunteer.srca.org.sa/#!/home"> الموقع الإالكتروني</a>
+    </string>
+
+    <string name="ttwe">
+        <a href="https://nvg.gov.sa/"> الموقع الإالكتروني</a>
+    </string>
+
+    <string name="tkatf">
+        <a href="https://sv.org.sa/volunteersinfo/"> الموقع الإالكتروني</a>
+    </string>
+
+    <string name="hiwar">
+        <a href="https://www.kacnd.org/"> الموقع الإالكتروني</a>
+    </string>
+
+    <string name="eraq">
+        <a href="https://sv.org.sa/volunteersinfo/"> الموقع الإالكتروني</a>
+    </string>
+
+    <string name="motwiron">
+        <a href="https://www.motawiroon.org.sa/"> الموقع الإالكتروني</a>
+    </string>
+
+    <string name="tnmih">
+        <a href="https://tanmyahakma.org/"> الموقع الإالكتروني</a>
+    </string>
+
+    <string name="rodah">
+        <a href="http://www.arrawdah.com/dimofinf/"> الموقع الإالكتروني</a>
+    </string>
+
+
+    <string name="link111">
+    <a href="https://lms.doroob.sa/courses/Doroob/DRB-EL-027-IGD-1-AR/2019/about">الموقع الالكتروني</a>
+</string>
+
+    <string name="link21">
+    <a href="https://lms.doroob.sa//courses/E-learning/ZDK-008x/2014/about">الموقع الالكتروني</a>
+</string>
+
+    <string name="link31">
+    <a href="https://lms.doroob.sa/courses/Doroob/DRB-HR02-EL-PD1-004-HR02-00-00-Ar-001-2nd/2017/about">الموقع الالكتروني</a>
+</string>
+
+    <string name="link41">
+    <a href=" https://lms.doroob.sa/courses/E-Learning/DRB-027-SM-01-AR/2018/about">الموقع الالكتروني</a>
+</string>
+
+    <string name="link51">
+    <a href="https://lms.doroob.sa/courses/Doroob/EL-W03-027-MW01-01-AR-01-2nd/2017/about?lang=ar ">الموقع الالكتروني</a>
+</string>
+
+    <string name="link61">
+    <a href="https://lms.doroob.sa//courses/Doroob/W.S-WRKDI002/MAR2020/about?lang=ar">الموقع الالكتروني</a>
+</string>
+
+    <string name="link71">
+    <a href=" https://lms.doroob.sa/courses/doroob/stc101/Ar_2018/about">الموقع الالكتروني</a>
+</string>
+
+
+    <string name="link81">
+    <a href="  https://lms.doroob.sa/courses/Doroob/SC-MON-P1-C2/2030/about">الموقع الالكتروني</a>
+</string>
+
+
+</resources>
